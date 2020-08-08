@@ -1,5 +1,7 @@
 # api
 
+<a href="https://codeclimate.com/github/miluca-foundation/api/maintainability"><img src="https://api.codeclimate.com/v1/badges/99ab9c31966aeb812233/maintainability" /></a>
+
 a [Sails v1](https://sailsjs.com) application
 
 
